@@ -1,0 +1,10 @@
+{
+	"protocol_name": "USB",
+	"parameters": {
+		"sync_pattern": "00000001",
+		"pid": 8,
+		"dest_address": "10010011101",
+		"payload": 128,
+		"bit_duration": 0.0001
+	}
+}
